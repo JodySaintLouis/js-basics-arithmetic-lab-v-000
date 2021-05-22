@@ -5,3 +5,4 @@ let multiply = var1 * var2;
 
 let random = Math.random();
 let mod = 24 % 20;
+let max = Math.max(20,19,19);
